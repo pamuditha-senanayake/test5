@@ -55,6 +55,9 @@ app.get("/logout", (req, res) => {
   });
 });
 //console.log("hello2");
+//console.log("hello2");
+//console.log("hello2");
+//console.log("hello2");
 
 app.get("/secrets", (req, res) => {
   // console.log(req.user);
