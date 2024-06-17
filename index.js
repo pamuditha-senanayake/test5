@@ -54,7 +54,7 @@ app.get("/logout", (req, res) => {
     res.redirect("/");
   });
 });
-//console.log();
+//console.log("hello2");
 
 app.get("/secrets", (req, res) => {
   // console.log(req.user);
